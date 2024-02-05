@@ -25,8 +25,8 @@ To use the Weather Data Fetcher:
 
 ## Results
 
-<img width="960" alt="cli_get-weather" src="https://github.com/nirajccs1999/weather-data-fetcher/assets/121447767/b2e1ecd8-0e76-4907-83bf-02d8624fc655">
-<img width="960" alt="cli_get-wind-pressure-wrong_date" src="https://github.com/nirajccs1999/weather-data-fetcher/assets/121447767/7a6e0b0c-4fa4-4230-ba01-9d1d2a4efbd9">
-<img width="958" alt="post_get-pressure" src="https://github.com/nirajccs1999/weather-data-fetcher/assets/121447767/5ae08f77-f618-4979-8720-bd71d1ac8b4c">
-<img width="958" alt="postman_get-Weather" src="https://github.com/nirajccs1999/weather-data-fetcher/assets/121447767/0c3290a6-f757-4e0d-bd93-da84e0a3e31d">
-<img width="960" alt="postman_get-wind-speed" src="https://github.com/nirajccs1999/weather-data-fetcher/assets/121447767/8ab5f7e5-57be-42f6-a952-21f9b05962fa">
+<img width="821" alt="Screenshot 2024-02-05 235337" src="https://github.com/ThejaswiniLamani/weather-data/assets/104048731/0874bba2-6034-4032-a4c0-c39e585f43ae">
+<img width="829" alt="Screenshot 2024-02-05 235402" src="https://github.com/ThejaswiniLamani/weather-data/assets/104048731/54f230ea-75c4-4fec-b4c4-676790d1f5f2">
+<img width="791" alt="Screenshot 2024-02-05 235417" src="https://github.com/ThejaswiniLamani/weather-data/assets/104048731/e3d02261-daf4-451f-8c70-ec424649bda6">
+<img width="835" alt="Screenshot 2024-02-05 235701" src="https://github.com/ThejaswiniLamani/weather-data/assets/104048731/9b1d3562-9f83-4aa4-bd2c-884a647f3c42">
+<img width="863" alt="Screenshot 2024-02-05 235717" src="https://github.com/ThejaswiniLamani/weather-data/assets/104048731/3d2e0f93-fbb1-4f94-8d84-91e6f38365e5">
