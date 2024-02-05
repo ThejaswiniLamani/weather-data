@@ -18,8 +18,8 @@ CLI Interface: The CLI program offers a user-friendly way to interact with the w
 ## Usage
 To use the Weather Data Fetcher:
 
-1. Clone the repository: git clone https://github.com/nirajccs1999/weather_data_fetcher.git
-2. Navigate to the project directory: cd weather_data_fetcher
+1. Clone the repository: git clone https://github.com/ThejaswiniLamani/weather-data.git
+2. Navigate to the project directory: cd weather-data
 3. Run the Flask API: python app.py
 4. In a separate terminal, use the CLI program to fetch weather data: python cli_program.py
 
